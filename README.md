@@ -1,8 +1,5 @@
 # next-statecraft
 
-[![skills.sh](https://skills.sh/b/lucasbernasconi/next-statecraft)](https://skills.sh/luc
-asbernasconi/next-statecraft)
-
 State management skill for advanced Next.js (App Router) projects. Covers where state lives, how it's shaped, and how it interacts with rendering, caching and navigation.
 
 ## Install
