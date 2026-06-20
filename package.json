@@ -1,0 +1,8 @@
+{
+  "name": "next-statecraft",
+  "version": "0.1.0",
+  "private": true,
+  "description": "State management skill for advanced Next.js (App Router) projects",
+  "license": "MIT",
+  "packageManager": "pnpm@10.12.4"
+}
