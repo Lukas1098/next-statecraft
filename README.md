@@ -5,7 +5,7 @@ State management skill for advanced Next.js (App Router) projects. Covers where 
 ## Install
 
 ```bash
-npx skills@latest add lucasbernasconi/next-statecraft
+npx skills@latest add Lukas1098/next-statecraft
 ```
 
 Pick the skill, select your coding agents, done.
